@@ -11,3 +11,9 @@ Essa linha eu adicionei através do site, e editei usando a **MarkDown**
 - [ ] Estudar HTML
 - [ ] Estudar CSS
 - [ ] Estudar JS 
+
+```
+var frase = 'Olá Mundo!';
+Console.log(frase);
+
+```
